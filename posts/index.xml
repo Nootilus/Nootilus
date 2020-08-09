@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Le geek-blog du Nootilus</title>
+    <link>Nootilus.github.io/posts/</link>
+    <description>Recent content in Posts on Le geek-blog du Nootilus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Sun, 09 Aug 2020 13:45:21 +0200</lastBuildDate>
+    
+	<atom:link href="Nootilus.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mon Premier Post</title>
+      <link>Nootilus.github.io/posts/mon-premier-post/</link>
+      <pubDate>Sun, 09 Aug 2020 13:45:21 +0200</pubDate>
+      
+      <guid>Nootilus.github.io/posts/mon-premier-post/</guid>
+      <description>Que dire ? Que ça fait juste 15 fois que je tente de faire marcher ce truc… grrr…
+.V</description>
+    </item>
+    
+  </channel>
+</rss>
